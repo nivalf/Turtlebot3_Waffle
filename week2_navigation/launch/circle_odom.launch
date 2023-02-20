@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="week2_navigation" type="move_circle.py" name="move_circle" output="screen"></node>
+  <node pkg="week2_navigation" type="odom_subscriber.py" name="odometry" output="screen"></node>
+</launch>
