@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# A simple ROS publisher node in Python
+# A simple ROS publisher node in Python to move the robot in a circle
 
 import rospy 
 from geometry_msgs.msg import Twist 
