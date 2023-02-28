@@ -121,7 +121,7 @@ class SearchActionServer():
             # TODO: update all result parameters:
             self.result.total_distance_travelled = self.distance
             self.result.closest_object_distance = self.closest_object
-            self.result.closest_object_location = self.closest_object_location
+            self.result.closest_object_angle = self.closest_object_location
 
             rate.sleep()
 
