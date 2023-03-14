@@ -1,6 +1,3 @@
 [submodule "COM2009"]
 	path = COM2009
 	url = https://github.com/tom-howard/COM2009.git
-[submodule "ez_robot_ros_driver"]
-	path = ez_robot_ros_driver
-	url = https://github.com/nivalf/ez_robot_ros_driver.git
